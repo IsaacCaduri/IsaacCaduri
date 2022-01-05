@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaacCaduri
 - 👀 I’m interested in WebApp Development 
-- 🌱 I’m currently learning Java
+- 🌱 I'm currently learning Java & working on "https://craft-chocolated.webflow.io/"
 - 📫 How to reach me VIA mail isaac290@gmail.com
 
 <!---
